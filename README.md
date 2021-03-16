@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
 - I'm André Ricardo
-- 🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car
+-🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car
 - I’m working with Supply Chain management
 - 🌎 and I also like to travel and watch series
 
