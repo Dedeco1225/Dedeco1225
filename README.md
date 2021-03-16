@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm André Ricardo
--🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car
+- 🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car
 - I’m working with Supply Chain management
 - 🌎 and I also like to travel and watch series
 
