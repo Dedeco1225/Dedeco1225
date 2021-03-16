@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ I'm André Ricardo.
+🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car.
+🔭 I’m working with Supply Chain management.
+🌎 and I also like to travel and watch series.
+
+
+
+
 <!--
 **Dedeco1225/Dedeco1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
