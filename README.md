@@ -1,9 +1,11 @@
 ### Hi there 👋
 
- I'm André Ricardo.
-🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car.
-🔭 I’m working with Supply Chain management.
-🌎 and I also like to travel and watch series.
+https://www.linkedin.com/in/andr%C3%A9-freitas-10a42a54/
+
+✔ I'm André Ricardo.
+✔🌱🚎 I’m currently learning Machine Learning, Artificial intelligence for Robotics and Self-Driving Car.
+✔🔭 I’m working with Supply Chain management.
+✔🌎 and I also like to travel and watch series.
 
 
 
